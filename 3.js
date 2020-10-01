@@ -13,3 +13,5 @@ for (var i = 0; i < sem; i++) {
     }
     console.log(output);
 }
+const rizka = " Rizka";
+console.log(rizka);
